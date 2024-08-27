@@ -12,3 +12,6 @@ Search Folders and Subfolders.
 One Word.
 
 Focus on Tool Speed
+
+
+ Windows!
